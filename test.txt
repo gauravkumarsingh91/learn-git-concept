@@ -1,0 +1,3 @@
+test untracked file with data
+now adding new line as missed in last stagged
+This is just to check git diff
