@@ -6,3 +6,5 @@ now adding new line as missed in last stagged
 This is just to check git diff
 
 git merge test
+
+Now completed code in issue 53. ready to merge it with development branch.
