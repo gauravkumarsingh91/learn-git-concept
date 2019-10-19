@@ -1,8 +1,8 @@
-test untracked file with data
+test untracked file with data. Testing merge resolve conflict
 
 git merge test
 
-now adding new line as missed in last stagged
+now adding new line as missed in last stagged. THIS IS TO TEST RESOLVE CONFLICT.
 This is just to check git diff
 
 git merge test
